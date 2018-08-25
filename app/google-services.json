@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "236697958063",
+    "firebase_url": "https://friendslocation-c06f5.firebaseio.com",
+    "project_id": "friendslocation-c06f5",
+    "storage_bucket": "friendslocation-c06f5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:236697958063:android:3400304a7e23755a",
+        "android_client_info": {
+          "package_name": "com.example.jiraiya.friendslocation"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "236697958063-1pb3ek3rjv5dafsv98r1c56ne066fqgm.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.jiraiya.friendslocation",
+            "certificate_hash": "0ea665661dcb51347fc0a01ecf64a3cab3fe342c"
+          }
+        },
+        {
+          "client_id": "236697958063-315esod128bf6fs5n2vqlkeloh3qnc9r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDj2A-5_IKNJLVPZI-SZa7LlCCAIJHm0AA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "236697958063-315esod128bf6fs5n2vqlkeloh3qnc9r.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
